@@ -8,9 +8,9 @@ _____________
 
 - Integrating knowledge for safe by design nanomaterials with [SbD4Nano](https://www.sbd4nano.eu/) (European Union Horizon 2020 research and innovation program under grant agreement no. 862195).
 - DevOps and ontology engineering for the [eNanoMapper Ontology](https://github.com/enanomapper/ontologies) as a part of [NanoSolveIT](https://nanosolveit.eu/) (European Union Howizon H2020 under grant agreement no. 814572).
-- Curation of WikiPathways with the [WikiPathways curation team](https://github.com/wikipathways/wikipathways-help/discussions).
+- Part of the [WikiPathways team](https://www.wikipathways.org/team.html)
 
 ______________
 Open science is neat.
 
-[jmillanacosta.com](https://www.jmillanacosta.com)
+jmillanacosta.com](https://www.jmillanacosta.com)
