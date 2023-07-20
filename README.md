@@ -6,8 +6,8 @@ Ph.D. candidate at the Bioinformatics department - Maastricht University Faculty
 _____________
 
 
-- Integrating knowledge for safe by design nanomaterials with [SbD4Nano](https://www.sbd4nano.eu/) (European Union Horizon 2020 research and innovation program under grant agreement no. 862195).
-- DevOps and ontology engineering for the [eNanoMapper Ontology](https://github.com/enanomapper/ontologies) as a part of [NanoSolveIT](https://nanosolveit.eu/) (European Union Howizon H2020 under grant agreement no. 814572).
+- Integrating knowledge for safe by design nanomaterials with [SbD4Nano](https://www.sbd4nano.eu/) (European Union H2020 research and innovation program under grant agreement no. 862195).
+- DevOps and ontology engineering for the [eNanoMapper Ontology](https://github.com/enanomapper/ontologies) as a part of [NanoSolveIT](https://nanosolveit.eu/) (European Union H2020 under grant agreement no. 814572).
 - Part of the [WikiPathways team](https://www.wikipathways.org/team.html)
 
 ______________
