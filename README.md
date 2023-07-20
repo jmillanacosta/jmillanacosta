@@ -5,14 +5,12 @@ Ph.D. candidate at the Bioinformatics department in Maastricht University Facult
 
 _____________
 
-I like open science. 
-
-Currently working on knowledge representation and integration for the life sciences leveraging ontologies and other semantic tools.
 
 - Integrating knowledge for safe by design nanomaterials with [SbD4Nano](https://www.sbd4nano.eu/) (European Union Horizon 2020 research and innovation program under grant agreement no. 862195).
 - DevOps and ontology engineering for the [eNanoMapper Ontology](https://github.com/enanomapper/ontologies) as a part of [NanoSolveIT](https://nanosolveit.eu/) (European Union Howizon H2020 under grant agreement no. 814572).
 - Curation of WikiPathways with the [WikiPathways curation team](https://github.com/wikipathways/wikipathways-help/discussions).
 
 ______________
+Open science is neat.
 
 [jmillanacosta.com](https://www.jmillanacosta.com)
