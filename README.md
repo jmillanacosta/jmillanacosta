@@ -11,6 +11,5 @@ _____________
 - Part of the [WikiPathways team](https://www.wikipathways.org/team.html)
 
 ______________
-Open science is neat.
 
 [jmillanacosta.com](https://www.jmillanacosta.com)
